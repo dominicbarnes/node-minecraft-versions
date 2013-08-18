@@ -1,0 +1,12 @@
+{
+  "name": "minecraft-versions",
+  "version": "0.0.0",
+  "description": "Query the Minecraft versions.json for version information",
+  "main": "index.js",
+  "keywords": [
+    "minecraft",
+    "versions"
+  ],
+  "author": "Dominic Barnes <dominic@dbarnes.info>",
+  "license": "MIT"
+}
