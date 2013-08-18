@@ -22,5 +22,5 @@ function download(version, options) {
 
 exports.url = queryUrl;
 exports.query = query;
-exports.download = download;
 exports.downloadUrl = url;
+exports.download = download;
