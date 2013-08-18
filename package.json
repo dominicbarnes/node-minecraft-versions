@@ -1,12 +1,15 @@
 {
   "name": "minecraft-versions",
-  "version": "0.0.0",
-  "description": "Query the Minecraft versions.json for version information",
+  "version": "0.0.1",
+  "description": "Queries the Official Minecraft Versions JSON API provided by Mojang",
   "main": "index.js",
   "keywords": [
     "minecraft",
     "versions"
   ],
   "author": "Dominic Barnes <dominic@dbarnes.info>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
 }
